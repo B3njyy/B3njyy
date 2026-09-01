@@ -19,7 +19,7 @@
 - 💻 Academic experience building full-stack web applications with **Angular, NestJS and TypeScript**.
 - 🧠 Familiar with **Object-Oriented Programming, SOLID principles, design patterns, UML and modular architecture**.
 - 🗄️ Experience working with **SQL and MySQL**.
-- 🌱 Currently learning **Python** through Talento Tech and expanding my knowledge in **Cloud Computing**.
+- 🌱 Currently learning **Python** through Talento Tech.
 - 🎯 Looking for my first professional opportunity in software development as a **Trainee / Junior Developer**.
 
 ## 🛠️ Tech Stack
@@ -61,11 +61,27 @@
 
 Academic full-stack project developed at **UTN** as part of a 10-member team.
 
-My main responsibility was the **Historical Rivals** feature, which obtains, processes and presents information about the assigned national team's historical opponents. I worked with the Angular frontend and its integration with a **NestJS Backend for Frontend (BFF)** consuming data from the course-provided WorldCupAPI.
+My main responsibility was the **Historical Rivals** feature, which obtains, processes and presents information about the assigned national team's historical opponents.
+
+I worked with the **Angular frontend** and its integration with a **NestJS Backend for Frontend (BFF)** consuming data from the course-provided WorldCupAPI.
 
 **Tech:** Angular · NestJS · TypeScript · HTML · CSS · REST APIs · Git · GitHub
 
 🔗 [View repository](https://github.com/utnba-tup-progra3/tp-worldcup-grupo-10)
+
+---
+
+## 🐍 Learning Repository
+
+### Talento Tech — Python
+
+Repository where I organize the exercises and practices completed during my Python learning path at **Talento Tech**.
+
+The repository will continue growing with new classes, exercises and the final course project as I progress through the program.
+
+**Currently covered:** console output · user input · variables · conditionals · data validation
+
+🔗 [View talento-tech-python](https://github.com/B3njyy/talento-tech-python)
 
 ---
 
@@ -75,13 +91,18 @@ My main responsibility was the **Historical Rivals** feature, which obtains, pro
 Universidad Tecnológica Nacional — Facultad Regional Buenos Aires  
 **2024 — Present** · 11 courses completed
 
-Relevant coursework: Programming I & III · Databases I & II · Computer Architecture & Operating Systems
+**Relevant coursework:**  
+Programming I & III · Databases I & II · Computer Architecture & Operating Systems
+
+---
 
 ## 🌱 Currently Learning
 
 - 🐍 **Python** — Talento Tech
-- ☁️ **Cloud Computing**
 - 📊 **Introduction to Data Analysis** — UTN
+- ☁️ **Next:** Cloud Computing
+
+---
 
 ## 🌎 Languages
 

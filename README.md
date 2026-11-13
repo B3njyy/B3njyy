@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/santiago-benjamin-noguera-1a631b35b/">LinkedIn</a> •
+  
+<a href="https://www.linkedin.com/in/santiago-benjam%C3%ADn-noguera-1a631b35b/">LinkedIn</a> •
   <a href="https://github.com/B3njyy">GitHub</a>
 </p>
 
